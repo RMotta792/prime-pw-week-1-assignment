@@ -5,13 +5,13 @@ body {
 /* Make the header and footer a different color from the background */
 .header {
   padding: 40px;
-  background: #FFD54F;
+  background: #FFE082;
   margin-bottom: 35px;
 }
 
 .footer {
   padding: 40px;
-  background: #FFD54F;
+  background: #FFE082;
   list-style-type: square;
 }
 /* Align the h1 containing your name in the center of the header*/
@@ -22,13 +22,13 @@ h1 {
 }
 /* Make your p tag a different color and italic */
 p1 {
-  color: #FF8F00;
+  color: #4FC3F7;
   font-style: italic;
   font-size: 20px;
 }
 
 p2 {
-  color: #FF8F00;
+  color: #1E88E5;
   font-size: 18px;
 }
 /* Put a border around your image */
