@@ -4,27 +4,27 @@
 The command for listing the files in the current folder is 'ls'.
 
 # 2 - What is the command for changing directories?
-The command for changing directories is 'cd (SPACE BAR) the file name (ENTER)'.
+The command for changing directories is 'cd [SPACE] the file name [ENTER]'.
 
 # 3 - What is the command for going "up" a folder (to a parent directory)?
 The command for going "up" to a parent directory is 'cd ..'.
 
 # 4 - What is a quick way to create a new folder?
-The command for creating a new folder within git bash is 'mkdir', + the new file name to be created, (Enter).
-Once the folder is created, to add/create new files within, I would then 'ls' (open that new file created), then 'touch' + new file name/type, (ENTER).
+The command for creating a new folder within git bash is 'mkdir', + the new file name to be created, [Enter].
+Once the folder is created, to add/create new files within, I would then 'ls' (open that new file created), then 'touch' + new file name/type, [ENTER].
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
 5A - The output I would expect from running 'ls' in an empty folder is "no such file in directory".
 5B - The output when run command 'ls' in a folder containing files, all files within that folder would be displayed underneath.
 
 # 6 - What is a quick way to create a new file?
-Once the folder is created, to add/create new files within, I would then 'ls' (open that new file created), then 'touch' + new file name/type, (ENTER).
+Once the folder is created, to add/create new files within, I would then 'ls' (open that new file created), then 'touch' + new file name/type, [ENTER].
 
 # 7 - Run 'git --version' in your terminal. What is the output?
 "git version 2.23.0"
 
 # 8 - Why would you run the command 'git status'?
-Running this command will show files that have been added/deleted/updated/changed, showing you those files need to be committed. This command will show you your 'working branch' and 'working tree status'.
+Running this command will show files that have been added/deleted/updated/changed, ultimately showing you that those files need to be committed, or saved. This command will show you your 'working branch' and 'working tree status'.
 
 # 9 - What does the command 'git add .' do?
 The 'git add .' command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit.
